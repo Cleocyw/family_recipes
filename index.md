@@ -1,7 +1,7 @@
-# Yewen's Family secret recipes
+# Family secret recipes
 
 Set of recipes as given by my grandma.
 
--pizas (TODO)
--Sauses (TODO)
-- raads(TODO)
+-pizzas (TODO)
+-Sauces (TODO)
+- spreads (TODO)
